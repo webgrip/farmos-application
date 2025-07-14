@@ -7,3 +7,5 @@ age.agekey
 
 *.dec.yml
 *.dec.yaml
+
+vendor

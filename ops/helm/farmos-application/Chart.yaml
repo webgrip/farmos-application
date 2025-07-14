@@ -1,11 +1,11 @@
 apiVersion: v2
-name: application-application
+name: farmos-application
 description: "Helm Chart for deploying {{application}} on k8s"
 type: application
 version: 1.0.0
 appVersion: "1.81.4"
 dependencies:
-  # - name: application-application
+  # - name: farmos-application
   #   version: 1.0.5
   #   repository: oci://8gears.container-registry.com/library
   - name: postgresql

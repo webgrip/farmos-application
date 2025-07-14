@@ -1,1 +1,1 @@
-FROM alpine:latest AS base
+FROM farmos/farmos:4.x-dev
